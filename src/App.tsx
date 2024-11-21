@@ -5,10 +5,11 @@ function App() {
   return (
     <div className="app">
       <h1>Softy Ai app </h1>
-      <!-- Dirty code -->
       <div className="app__body">
+      <!-- Dirty code -->
         <Sidebar >
         <Feed >
+        Some text .... 
 
       </div>
 
